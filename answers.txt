@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: It can be applied to agriculture. For example, gathering data can help predict crop yield or map out likely areas for fire. 
