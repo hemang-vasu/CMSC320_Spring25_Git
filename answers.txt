@@ -4,3 +4,7 @@ Answer: For version control, forking other repositories, and sharing capabilitie
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: It can be applied to agriculture. For example, gathering data can help predict crop yield or map out likely areas for fire. 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging keeps all the commits from both branches and adds a new one to tie them together, while rebasing moves your changes on top of another branch, rewriting history to keep it linear.
