@@ -8,3 +8,7 @@ Answer: It can be applied to agriculture. For example, gathering data can help p
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging keeps all the commits from both branches and adds a new one to tie them together, while rebasing moves your changes on top of another branch, rewriting history to keep it linear.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to making more friends and hopefully getting my grades up.
